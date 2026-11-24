@@ -1,0 +1,2 @@
+# lab_6_github_action
+lab_6_github_action
